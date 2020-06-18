@@ -1,0 +1,150 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body{
+	
+
+}
+hr{
+  margin-left:300px;
+  margin-right:300px;
+  margin-bottom:50px;
+}
+
+.header {
+	background-color:#fff;
+	width: 1338px;
+	height:auto;
+	background-position:center;
+	
+	
+	
+}
+
+
+
+.header-list{
+	
+text-align:center;
+width: 1334px;
+	height:40px;
+	background-color:#FFF;
+	background-position:center;
+}
+
+.header-list li {
+	
+	list-style:none;
+	float:left;
+	padding-top:10px;
+	padding-bottom: 10px;
+	padding-left:30px;
+	padding-right:30px;
+	color:#900;
+	
+}
+
+.garis{
+	border: 3px solid #000;
+	width: 1332px;
+
+}
+.salam{
+	background-color:#FFF;
+	width: 1338px;
+	height:50px;
+	color: #000;
+
+}
+.tab{
+	padding-left:10px;
+	background-color:transparent;
+	width: 1338px;
+
+}
+
+
+.label{
+	padding-left:10px;
+	background-color:transparent;
+	width: auto;
+	height:auto;
+	float:left;
+
+}
+
+
+.main{
+	background-color:#FFF;
+	width: 1338;
+	height: auto;
+
+
+}
+.span{
+	float:right;
+	position:absolute;
+}
+.container{
+	background-color:transparent;
+	width: auto;
+	float:left
+	padding-top:0px;
+	padding-bottom: 10px;
+	padding-left:30px;
+	padding-right:30px;
+	
+}
+.gambar{
+	background-position:center;
+	width:300;
+	height:400;
+	position:relative;
+	
+}
+.gambar1{
+	background-position:right;
+	width:200;
+	height:300;
+	position:absolute;
+	
+}
+
+.content{
+	background-color:transparent;
+	width: auto;
+	
+	padding-top:0px;
+	padding-bottom: 10px;
+	padding-left:30px;
+	padding-right:30px;
+	
+}
+.footer{
+	position:static;
+	width: 1348x;
+}
+
+.header-right a {
+  line-height: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: black;
+}
+
+.k1 {
+	float: right;
+	width:auto;
+	height: auto;
+	padding-right:50px;
+	text-align:center;
+	color: #000;
+	background-image: rgba(89,123,240,0.2);
+
+}
+
+input, textarea{
+	width:300px
+}
+
+	
